@@ -1,0 +1,6 @@
+x='raining'
+y='hot'
+
+if(x=='raining'):
+	print("please take umbraller")
+	
