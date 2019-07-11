@@ -1,8 +1,12 @@
 def strings():
     name1='benjamin'
-    name= name1.split('benjamin')
-    x=hasattr(name1,name1[4])
+    name=list(name1)
+    x=hasattr(strings,'name')
     print(x)
         
         
 strings()
+
+i="ben"
+n=slice(2)
+print(i[n])
